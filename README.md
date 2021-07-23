@@ -1,8 +1,7 @@
 # SCA-Cloud-School-Application
 
-<p>
 ## Solution to Exercise 1
-</p>
+
 I created an account with jenkins and i'm able to run my server on port 8080.
 On the github repo created, i connect jenkins with my repo by navigating to the settings, webhooks and i input my ipaddress:8080/webhook-github
 I opened the jenkins dashboard, click on new item, enter a project name, click on freestyle project and ok to continue
