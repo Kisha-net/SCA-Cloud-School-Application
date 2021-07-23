@@ -24,7 +24,7 @@ Enlisted below are some of the steps I used in order to accomplish and be able t
 
 - That is how I was able to handle the challange.
 
-###Login details(to access my jenkins server)
+### Login details(to access my jenkins server)
 Username:
 ```
 kisha
