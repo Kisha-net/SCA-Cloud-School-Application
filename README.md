@@ -27,8 +27,10 @@ Enlisted below are some of the steps I used in order to accomplish and be able t
 - That is how I was able to handle the challange.
             </p>
          <h2 align="center">Login details(to access my jenkins server)</h2>
-Username:```kisha``` <br />
-Password:```kisha@254```
+Username:
+         ```kisha``` 
+Password:
+         ```kisha@254```
          
    <p align="center">Made with ❤️ from Kenya.</p>
          </div>
