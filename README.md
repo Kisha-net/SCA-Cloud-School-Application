@@ -1,8 +1,8 @@
 <html>
    <body>
       <div class="myWrapper" markdown="1">
-         <p style="text-align: center;">
-            <h1>SCA-Cloud-School-Application</h1>
+         <p>
+            <h1 style="text-align: center;">SCA-Cloud-School-Application</h1>
          </p>
 ## Solution to Exercise 1
 
