@@ -15,7 +15,9 @@ Indicated below are some of the steps I used to be able to solve the first exerc
    10. After building, I clicked on #2 to view the console output of the build that was executed and it was able to print the text of my mini program that is in this repository.
 
 #### Login details(to access my jenkins server)
-username: kisha
+```username: kisha
+```
+```
 password: kisha@254
-
-          Made with :love: from Kenya.
+```
+   Made with :love: from Kenya.
