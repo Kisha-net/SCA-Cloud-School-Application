@@ -1,11 +1,10 @@
 <html>
    <body>
       <div class="myWrapper" markdown="1">
-         <p>
-            <h1 align="center">SCA-Cloud-School-Application</h1>
-         </p>
-## Solution to Exercise 1
-
+        <h1 align="center">SCA-Cloud-School-Application</h1> 
+         <h2 align="center">Solution to Exercise 1</h1>
+           
+           <p>
 Enlisted below are some of the steps I used in order to accomplish and be able to solve the first challenge for the Cloud Application challenge.
    1. I installed Jenkins in my PC and ensured it was running on port 8080. After that I created my account and I was able to access Jenkins services.
    
@@ -27,8 +26,9 @@ Enlisted below are some of the steps I used in order to accomplish and be able t
    9. After building, I clicked on ```#2 build option```(because the build job was the second build in my server) so as to view the console output of the build that was executed and it was able to print ``` Hello this is Antoinette working with python. ``` which was the text of my mini program that is in this repository.
 
 - That is how I was able to handle the challange.
-
-### Login details(to access my jenkins server)
+            </p>
+         
+            <h3 align="center">Login details(to access my jenkins server)</h3>
 Username:
 ```
 kisha
@@ -37,7 +37,7 @@ Password:
 ```
 kisha@254
 ```
-   Made with ❤️ from Kenya.
+   <span align="center">Made with ❤️ from Kenya.</span>
          </div>
    </body>
 </html>
