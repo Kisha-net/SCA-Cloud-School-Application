@@ -3,7 +3,6 @@
       <div class="myWrapper" markdown="1">
         <h1 align="center">SCA-Cloud-School-Application</h1> 
          <h2 align="center">Solution to Exercise 1</h1>
-           
            <p>
 Enlisted below are some of the steps I used in order to accomplish and be able to solve the first challenge for the Cloud Application challenge.
    1. I installed Jenkins in my PC and ensured it was running on port 8080. After that I created my account and I was able to access Jenkins services.
