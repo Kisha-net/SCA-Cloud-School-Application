@@ -1,5 +1,9 @@
+<html>
+   <body>
+      <div>
+         <p style="text-align: center;">
 # SCA-Cloud-School-Application
-
+         </p>
 ## Solution to Exercise 1
 
 Enlisted below are some of the steps I used in order to accomplish and be able to solve the first challenge for the Cloud Application challenge.
@@ -34,3 +38,6 @@ Password:
 kisha@254
 ```
    Made with ❤️ from Kenya.
+         </div>
+   </body>
+</html>
