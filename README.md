@@ -2,10 +2,12 @@
 
 ## Solution to Exercise 1
 
-Indicated below are some of the steps I used to be able to solve the first exercise of the Cloud Application challenge.
-   1. I created an account with jenkins and i'm able to run my server on port 8080.
-   2. On the github repo created, i connect jenkins with my repo by navigating to the settings, webhooks and i input my ipaddress:8080/webhook-github
-   3. I opened the jenkins dashboard, click on new item, enter a project name, click on freestyle project and ok to continue
+Enlisted below are some of the steps I used in order to accomplish and be able to solve the first challenge for the Cloud Application challenge.
+   1. I installed Jenkins in my PC and ensured it was running on port 8080. After that I created my account and I was able to access Jenkins services.
+   2. On the github repo created ```https://github.com/kisha-net/SCA-Cloud-School-Application ```, 
+         - I connect jenkins with my repo by navigating to the Settings option, and then to the webhooks section and I input 
+         ```http://kisha.com:8080/github-webhook``` payload url in order to connect my Jenkins server to my GitHub repository.
+   3. I opened the Jenkins dashboard, clicked on create a new job option, enter my project name as ``` Python project ```, opted for the freestyle project and clicked ok to continue to the configuration section.
    4. Check github project and input the github repo url in the space provided
    5. Click on git under source control management and input the github repo url
    6. Under credentials, select jenkins and input username and password you want to use, click add to continue
